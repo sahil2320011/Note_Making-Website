@@ -1,0 +1,10 @@
+1. I dont know about the local space in JavaScript... And i wanted to add and remove
+cards .... And initially i was trying with simple div which was very complicated 
+Then i asked my friend how was good at webdevelepment about the issue. Then he told
+me about this.
+
+2.Also while using localStorage i faced many difficulties,like  i thought localStorage is an array but i was not a string.
+ And i though it would be cleared automatically when i closed the browser but i was 
+wrong.
+
+3.Also after doing this project i was comfortable with javaScript... 
